@@ -1,6 +1,6 @@
 # ADC974-for-Edison
 
-This is the working repository where I will update the code 
-I will be connecting to the AD974 with the Intel Edison.
+This repository will contain the code used to connect the AD974 and the LSM303 to the Intel Edison
 
-It will use the MRAA module.
+The different codes will be used in conjunction to achieve a device that takes data from 4 hydrophones
+and records it.  It will will also record the direction and movement of the acoustic monitoring device.
